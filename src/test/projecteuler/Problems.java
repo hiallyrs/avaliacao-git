@@ -1,8 +1,12 @@
 package projecteuler;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import projecteuler.problems.Problem;
+import projecteuler.problems.Problem1;
+import projecteuler.problems.Problem2;
 
 /**
  * 
